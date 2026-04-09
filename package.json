@@ -1,0 +1,23 @@
+{
+  "name": "dev-sync-access-token-by-tampermonkey",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToeicHUST/dev-sync-access-token-by-tampermonkey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToeicHUST/dev-sync-access-token-by-tampermonkey/issues"
+  },
+  "homepage": "https://github.com/ToeicHUST/dev-sync-access-token-by-tampermonkey#readme",
+  "devDependencies": {
+    "rollup": "^4.59.0"
+  }
+}
